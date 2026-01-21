@@ -1,11 +1,11 @@
 # 💫 About Me:
-Фронтенд-разработчик, ориентированный на создание чистых, отзывчивых и поддерживаемых веб-интерфейсов. Сосредоточен на практике, качестве кода и постоянном развитии. Люблю разбираться в основах, улучшать архитектуру и делать интерфейсы понятными для пользователя.
+Фронтенд-разработчик, ориентированный на создание чистых, отзывчивых и поддерживаемых веб-интерфейсов. Сосредоточен на практике, качестве кода и постоянном развитии. Сейчас нахожусь на уровне **5 kyu** на Codewars, что подтверждает мои навыки владения JavaScript.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/selichionx_edo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldiar-bactiarov-772539386) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bactiaroveldiar@gmail.com)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/users/Eldiar2956-GitHab)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/users/Eldiar)
 
 # 💻 Tech Stack:
 
@@ -15,7 +15,7 @@
 ### 🛠 Tools & Backend
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats & Training:
+# 📊 GitHub Stats & Codewars:
 <table border="0">
   <tr>
     <td width="50%" align="center">
@@ -33,8 +33,8 @@
   <tr>
     <td colspan="2" align="center">
       <p><b>My Codewars Rank:</b></p>
-      <a href="https://www.codewars.com/users/Eldiar2956-GitHab">
-        <img src="https://www.codewars.com/users/Eldiar2956-GitHab/badges/large" alt="Codewars Badge" />
+      <a href="https://www.codewars.com/users/Eldiar">
+        <img src="https://www.codewars.com/users/Eldiar/badges/large" alt="Codewars Badge" />
       </a>
     </td>
   </tr>
