@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/selichionx_edo) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldiar-bactiarov-772539386) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bactiaroveldiar@gmail.com)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/users/Eldiar)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/users/Eldar2008-git)
 
 # 💻 Tech Stack:
 
@@ -33,17 +33,9 @@
   <tr>
     <td colspan="2" align="center">
       <p><b>My Codewars Rank:</b></p>
-      <a href="https://www.codewars.com/users/Eldiar">
-        <img src="https://www.codewars.com/users/Eldiar/badges/large" alt="Codewars Badge" />
+      <a href="https://www.codewars.com/users/Eldar2008-git">
+        <img src="https://www.codewars.com/users/Eldar2008-git/badges/large" alt="Codewars Badge" />
       </a>
     </td>
   </tr>
 </table>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Eldiar2956-GitHab&theme=react&no-frame=false&margin-w=4)
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Eldiar2956-GitHab&icon=2&color=13" />
-</p>
